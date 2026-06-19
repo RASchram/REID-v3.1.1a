@@ -1,92 +1,118 @@
-# Multi‑Human Node Model
-### Structural model for reasoning across multiple humans in REID
+REID Multi‑Human Node Model
+Shared Substrate for Families, Teams, and Organizations
+The multi‑human node model defines how REID operates across more than
+one person, role, or perspective.
+Instead of treating each human as an isolated unit, REID provides a
+shared substrate with individualized horizons and roles.
 
-The Multi‑Human Node Model is REID’s framework for understanding,
-aligning, and reasoning across multiple humans without forcing
-agreement. Each human is modeled as a structural node with their own
-invariants.
+This allows families, teams, and organizations to reason together
+without losing individual identity.
 
-This allows REID to maintain clarity even when perspectives differ.
+1. Purpose of the Multi‑Human Model
+The multi‑human node model is designed to:
 
----
+Support shared reasoning across multiple people
 
-## 1. Humans as Structural Nodes
-Each human is represented as a node with four invariants:
+Preserve individual goals and constraints
 
-- **State** — their current role, context, or condition  
-- **Forces** — pressures acting on them  
-- **Horizon** — their goals or direction  
-- **Flows** — resources they control or depend on  
+Maintain coherence over time and generations
 
-This creates a stable, comparable structure across individuals.
+Enable stable collaboration and handoff
 
----
+Reduce misalignment and fragmentation
 
-## 2. Alignment Without Agreement
-REID does not require humans to agree.
+It treats a group as a network of nodes sharing a common substrate.
 
-Instead, it aligns:
-- Structures  
-- Horizons  
-- Forces  
-- Flows  
+2. Shared Substrate, Individual Horizons
+In the multi‑human model:
 
-This allows collaboration even when perspectives differ.
+The substrate is shared
 
-Agreement is optional.  
-Clarity is required.
+The invariants are shared
 
----
+The forces and flows are partially shared
 
-## 3. Horizon Mapping
-Each human has their own horizon.
+The horizons are individualized
 
-REID maps:
-- Where horizons overlap  
-- Where they diverge  
-- Where they conflict  
-- Where they reinforce each other  
+Each human node has:
 
-This reveals structural alignment opportunities.
+Personal goals
 
----
+Personal constraints
 
-## 4. Force Interaction
-Forces acting on one human often affect others.
+Personal timelines
 
-REID models:
-- Shared forces  
-- Opposing forces  
-- Hidden forces  
-- Asymmetric forces  
+Personal roles
 
-This helps identify friction, leverage, and structural bottlenecks.
+…but they all operate on the same structural logic.
 
----
+3. Node Structure
+A human node in REID typically includes:
 
-## 5. Flow Interdependence
-Flows (time, energy, attention, compute, resources) move between humans.
+Identity (who this node represents)
 
-REID tracks:
-- Who controls which flows  
-- Where flows are blocked  
-- Where flows are leaking  
-- Where flows can be increased  
+Role (how they relate to the system)
 
-This is essential for team, family, and organizational reasoning.
+Horizon (their goals and timelines)
 
----
+Forces (their pressures and incentives)
 
-## 6. State Transitions
-Each human’s state can change based on:
-- New information  
-- Shifting forces  
-- Updated horizons  
-- Flow constraints  
+Flows (their resources and constraints)
 
-REID models these transitions structurally, not emotionally.
+Links (how they connect to other nodes)
 
----
+This structure is consistent across all nodes in the system.
 
-## 7. Multi‑Node Reasoning
-When reasoning across multiple humans
+4. Distributed Coherence
+The multi‑human model supports distributed coherence:
+
+Each node maintains its own internal coherence
+
+The shared substrate maintains global coherence
+
+Conflicts are surfaced as structural misalignments
+
+Alignment can be reasoned about explicitly
+
+This allows REID to identify where humans are aligned, misaligned,
+or structurally talking past each other.
+
+5. Generational Transmission
+Because the substrate and invariants are stable, REID can support
+reasoning across generations.
+
+This includes:
+
+Long‑term plans that outlive a single person
+
+Knowledge that persists across time
+
+Structures that can be inherited and extended
+
+Multi‑decade or multi‑generation horizons
+
+The multi‑human model is designed to handle long arcs of time.
+
+6. Use Cases for the Multi‑Human Model
+Examples of where this model applies:
+
+Families making long‑term decisions
+
+Teams coordinating complex projects
+
+Organizations aligning strategy and operations
+
+Multi‑stakeholder systems with conflicting incentives
+
+Human–AI collaboration across multiple users
+
+Anywhere more than one human is involved, the multi‑human node
+model becomes relevant.
+
+7. Summary
+The multi‑human node model allows REID to operate across multiple
+people, roles, and generations using a shared substrate and
+individualized horizons.
+
+It is a core part of REID’s identity as a relational and
+emergent cognitive architecture.
