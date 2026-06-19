@@ -1,101 +1,132 @@
-# Getting Started with REID
-### A quick onboarding guide for new users of the REID Cognitive Architecture
+# Getting Started with REID  
+*A practical guide for using the REID cognitive architecture*
 
-This guide introduces the core concepts of REID and shows how to begin
-using the framework for reasoning, translation, and multi-human modeling.
-
----
-
-## 1. What REID Is
-REID is a cognitive architecture built on structural invariants:
-- **State**
-- **Forces**
-- **Horizon**
-- **Flows**
-
-These invariants appear across all domains, making REID stable,
-cross-domain, and resistant to drift.
+REID is a cognitive architecture designed to create stable, efficient, cross‑domain reasoning.  
+This guide shows you how to begin using the framework in real scenarios — whether personal, organizational, or technical.
 
 ---
 
-## 2. Core Idea
-Every problem — technical, emotional, organizational, strategic —
-can be understood by mapping:
-- What is the current **state**?
-- What **forces** are acting on it?
-- What is the **horizon** (goal or direction)?
-- What **flows** (resources) are available?
+# 1. Understand the Four Invariants
 
-This structure is the foundation of REID.
+REID is built on four universal invariants:
 
----
+- **Substrate** — the reasoning surface  
+- **Horizon** — direction, goals, acceptable futures  
+- **Forces** — pressures, incentives, constraints  
+- **Flows** — movement of time, energy, attention, compute  
 
-## 3. Modes of Reasoning
-REID uses two reasoning modes:
+These invariants appear in every system — human, organizational, or computational.
 
-### **Mode N — Normal Reasoning**
-Expanded, exploratory, full-context reasoning.
-
-### **Mode T — Tight / Compressed Reasoning**
-Minimal, efficient, compute-aware reasoning.
-
-Mode T is ideal for:
-- Reducing chain-of-thought length  
-- Avoiding drift  
-- Increasing clarity  
-- Saving compute  
+To begin using REID, start by identifying these four invariants in the system you’re analyzing.
 
 ---
 
-## 4. How to Use REID
-Start with any problem or scenario and map it to the invariants:
+# 2. Explore the Core Architecture
 
-```
-State:  
-Forces:  
-Horizon:  
-Flows:
-```
+The `/core` directory contains the foundational documents:
 
-Then evaluate:
-- What forces matter most?
-- What flows are missing?
-- What horizon is realistic?
-- What state changes are required?
+- `architecture.md` — the full architecture  
+- `substrate.md` — Mode T and the coherence engine  
+- `horizon_model.md` — how direction and futures are structured  
+- `forces_and_flows.md` — pressures and resource movement  
+- `cross_domain_invariants.md` — the translation layer  
+- `multi_human_node_model.md` — shared substrate across humans  
+- `compute_efficiency.md` — reducing chain‑of‑thought and GPU cycles  
 
-This creates a stable reasoning substrate.
+Reading these in order gives you a complete understanding of the architecture.
 
 ---
 
-## 5. Multi-Human Reasoning
-REID models each human as a node with:
-- Their own horizon
-- Their own forces
-- Their own flows
-- Their own state
+# 3. Apply REID to Real Domains
 
-This allows alignment without forcing agreement.
+The `/domains` directory contains ready‑to‑use frameworks for:
+
+- Individuals  
+- Families  
+- Organizations  
+- Leadership  
+- Education  
+- Conflict Resolution  
+- Health & Well‑Being  
+- Creativity & Innovation  
+- Systems Design & Engineering  
+- Strategy & Long‑Arc Planning  
+- Decision‑Making  
+- Communication  
+- Time & Attention  
+- Change & Transitions  
+
+Each document shows how the invariants operate in that domain.
+
+Pick the domain closest to your current need and start there.
 
 ---
 
-## 6. Domain Translation
-REID can translate reasoning between domains by keeping the structure
-constant while swapping the domain content.
+# 4. Use the Diagrams to Build Mental Models
 
-Example:
-- Engineering → Parenting  
-- Strategy → Health  
-- Leadership → Personal decisions  
+The `/diagrams` directory contains:
 
-The invariants stay the same.
+- Master Architecture Diagram  
+- Invariant Cycle  
+- Multi‑Human Node Interaction Map  
+- Diagram Index  
+
+These visuals help you understand how the architecture fits together.
+
+If you’re new to REID, start with the **Master Architecture Diagram**.
 
 ---
 
-## 7. Where to Go Next
-- Read the full architecture (`docs/`)
-- Explore examples (`examples/`)
-- Review long-arc vision (`vision/`)
-- See the roadmap (`ROADMAP.md`)
-- Check the architecture diagrams
+# 5. Study the Examples
 
-REID is designed to be simple to start and deep to master.
+The `/examples` directory includes:
+
+- Reasoning efficiency examples  
+- Domain translation examples  
+- Multi‑node reasoning examples  
+
+These show REID in action — how it reduces cognitive load and improves clarity.
+
+Use these as templates for your own reasoning workflows.
+
+---
+
+# 6. Understand the Long‑Arc Vision
+
+The `/vision` directory explains:
+
+- Microsoft ecosystem alignment  
+- Azure + Copilot integration  
+- Multi‑year architecture trajectory  
+
+This helps you understand where REID fits in the broader AI landscape.
+
+---
+
+# 7. Start Using REID in Your Own Work
+
+To apply REID:
+
+1. Identify the **substrate** (what system you’re reasoning about).  
+2. Define the **horizon** (what direction or future matters).  
+3. Map the **forces** (pressures, incentives, constraints).  
+4. Track the **flows** (time, energy, attention, compute).  
+5. Use the architecture to stabilize reasoning and reduce drift.  
+6. Use the domain frameworks to translate REID into real action.  
+
+REID is not a model.  
+**REID is an architecture.**
+
+It becomes more powerful the more you use it.
+
+---
+
+# 8. Where to Go Next
+
+- Read the **architecture.md** file  
+- Explore the **domains** folder  
+- Review the **diagrams**  
+- Try a few **examples**  
+- Integrate REID into your own reasoning workflows  
+
+You now have everything you need to begin using REID effectively.
