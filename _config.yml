@@ -1,0 +1,23 @@
+title: "REID Cognitive Architecture"
+description: "Relational Emergent Invariant Dynamics — v3.1.1a"
+theme: just-the-docs
+color_scheme: dark
+
+url: "https://<your-username>.github.io/reid_v3_1_1a"
+
+aux_links:
+  "REID on GitHub":
+    - "https://github.com/<your-username>/reid_v3_1_1a"
+
+just_the_docs:
+  collections:
+    core:
+      name: Core Architecture
+    domains:
+      name: Domain Frameworks
+    diagrams:
+      name: Diagrams
+    examples:
+      name: Examples
+    vision:
+      name: Vision

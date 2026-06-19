@@ -1,8 +1,8 @@
-# REID Layer Map
+# REID Layer Map  
 ### A visual and structural breakdown of the full REID Cognitive Architecture
 
 The REID Cognitive Architecture is built as a layered system.  
-Each layer builds on the one below it, creating a stable, universal,
+Each layer builds on the one below it, creating a stable, universal,  
 drift‑resistant reasoning framework for humans and machines.
 
 This document provides a high‑level map of all layers in REID.
@@ -33,7 +33,7 @@ Everything in REID sits on the substrate.
 
 **Purpose:** Define how the invariants interact.
 
-**Core Loop:**
+**Core Loop:**  
 **Horizon → Forces → Flows → State → Horizon**
 
 **Functions:**
@@ -132,4 +132,58 @@ This is the strategic layer of REID.
 
 # 8. Layer 8 — Integration Layer
 
-**Purpose:** Connect
+**Purpose:** Connect REID to real systems, tools, and environments.
+
+**Includes:**
+- Microsoft ecosystem alignment  
+- Azure + Copilot + Forms integration  
+- Cross‑surface cognitive substrate  
+- Multi‑agent and multi‑human interoperability  
+- Organizational and technical embedding  
+
+**Outcome:**  
+REID becomes a living architecture inside real workflows,  
+tools, teams, and compute environments.
+
+---
+
+# 9. Layer 9 — Application Layer
+
+**Purpose:** Apply REID to real‑world domains.
+
+**Domains include:**
+- Individuals  
+- Families  
+- Organizations  
+- Leadership  
+- Education  
+- Conflict  
+- Health  
+- Creativity  
+- Systems design  
+- Strategy  
+- Decision‑making  
+- Communication  
+- Time & attention  
+- Transitions  
+
+This is where REID becomes practical, operational, and visible.
+
+---
+
+# Summary
+
+REID is a layered cognitive architecture:
+
+1. Substrate  
+2. Invariant Interaction  
+3. Reasoning Modes  
+4. Domain Translation  
+5. Multi‑Human Node  
+6. Compute Model  
+7. Long‑Arc Reasoning  
+8. Integration  
+9. Application  
+
+Each layer builds on the one below it, forming a stable, universal,  
+drift‑resistant reasoning system for humans and machines.

@@ -1,113 +1,52 @@
-# REID Glossary
-### Definitions of key terms used throughout the REID Cognitive Architecture
-
-This glossary provides clear definitions of the core concepts,
-structures, and reasoning elements used in REID.
+# REID Glossary  
+*Key terms in the cognitive architecture*
 
 ---
 
-## **Substrate**
-The shared structural layer that all REID reasoning rests on.
-It is domain‑agnostic and stable across contexts.
+## Substrate
+The reasoning surface. The base layer where coherence, stability, and Mode T operate.
 
----
+## Horizon
+Direction, goals, acceptable futures, and long‑arc trajectories.
 
-## **Invariants**
-The four universal structural elements that appear in every domain:
-- **State** — what exists now  
-- **Forces** — what is acting on it  
-- **Horizon** — where it is going  
-- **Flows** — what resources move through it  
+## Forces
+Pressures, incentives, constraints, expectations, and environmental influences.
 
-These form the backbone of REID.
+## Flows
+Movement of time, energy, attention, compute, and emotional resources.
 
----
+## Mode T
+The stable reasoning mode that reduces drift and improves clarity.
 
-## **State**
-The current configuration, role, or condition of a system, person, or domain.
+## Coherence Engine
+The mechanism that stabilizes reasoning across domains.
 
----
+## Cross‑Domain Invariants
+Structural patterns that remain stable across contexts.
 
-## **Forces**
-Pressures, constraints, motivations, or influences acting on the state.
+## Multi‑Human Node Model
+A framework for understanding interactions between humans as nodes in a shared substrate.
 
----
+## Flow Cost
+The resource cost of a decision or action.
 
-## **Horizon**
-The direction, goal, or trajectory a system or person is moving toward.
+## Horizon Alignment
+The degree to which two nodes share direction or acceptable futures.
 
----
+## Force Collision
+When pressures or incentives between nodes conflict.
 
-## **Flows**
-Resources that move through the system (time, energy, compute, money,
-attention, information, etc.).
+## Drift
+Loss of coherence or deviation from stable reasoning.
 
----
+## Translation Layer
+The mechanism that maps invariants across domains.
 
-## **Reasoning Engine**
-The layer that processes invariants and produces structured reasoning.
-Includes Mode N and Mode T.
+## Compute Efficiency
+Reduced chain‑of‑thought, fewer GPU cycles, and more stable reasoning paths.
 
----
+## Long‑Arc Planning
+Reasoning across extended timelines with stable direction.
 
-## **Mode N**
-Normal reasoning mode.  
-Expanded, exploratory, full‑context reasoning.
-
----
-
-## **Mode T**
-Tight reasoning mode.  
-Compressed, efficient, compute‑aware reasoning that reduces drift and
-shortens reasoning chains.
-
----
-
-## **Domain Layer**
-The layer that translates REID’s structural reasoning into specific
-domain language (engineering, leadership, parenting, strategy, etc.).
-
----
-
-## **Multi‑Human Node Model**
-A structural model that treats each human as a node with their own:
-- State  
-- Forces  
-- Horizon  
-- Flows  
-
-Used for alignment without forcing agreement.
-
----
-
-## **Compute Model**
-The layer that treats compute as a flow resource and optimizes reasoning
-for clarity, efficiency, and cost.
-
----
-
-## **Long‑Arc Reasoning**
-Reasoning that spans multiple steps, domains, or time horizons.
-Focuses on structural trajectories rather than short‑term noise.
-
----
-
-## **Translation**
-The process of mapping reasoning from one domain to another while
-preserving structure.
-
----
-
-## **Compression**
-Reducing reasoning length, complexity, or cognitive load while retaining
-structural clarity.
-
----
-
-## **Integration Layer**
-Where REID connects to external systems (Microsoft ecosystem, cloud
-compute, organizational workflows, etc.).
-
----
-
-This glossary will expand as REID evolves.
+## Structural Clarity
+The ability to see the underlying architecture of a system.
