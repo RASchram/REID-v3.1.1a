@@ -36,3 +36,14 @@ The private REID‑Core (amendments, DOCX, appendices, and personal node
 structures) is not included here. This public framework is intended for
 research, integration, and exploration within the Microsoft‑aligned
 AI ecosystem.
+
+## Project Structure
+
+/docs  
+    Core architecture documents
+
+/examples  
+    Demonstrations of REID in action
+
+/vision  
+    Long‑arc integration and ecosystem alignment
