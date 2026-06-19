@@ -1,49 +1,175 @@
-REID v3.1.1a
-Relational Emergent Invariant Dynamics
-REID is a cognitive architecture designed to improve reasoning efficiency,
-reduce compute cost, and create stable coherence across domains, systems,
-and human–AI interactions.
+REID v3.1.1a — Relational Emergent Invariant Dynamics
+A Cognitive Architecture for Stable, Efficient, Cross‑Domain Reasoning
 
-It provides a structured framework built on substrate, horizon,
-forces, and flows — enabling consistent reasoning patterns that
-generalize across technical, personal, organizational, and computational
-environments.
+REID is a cognitive architecture designed to improve reasoning efficiency, reduce compute cost, and create stable coherence across domains, systems, and human–AI interactions.
 
-REID is designed for seamless integration with the Microsoft ecosystem,
-including Azure, Copilot, Forms, and the broader AI and cloud stack.
+It provides a structured framework built on four universal invariants:
 
-Its layered architecture supports cross‑domain translation, multi‑human
-node models, and compute‑efficient reasoning paths that reduce GPU cycles
-and unnecessary chain‑of‑thought expansion.
+Substrate — the reasoning surface
 
-This repository contains the public REID Framework, including:
+Horizon — direction, goals, acceptable futures
 
-The REID architecture
+Forces — pressures, incentives, constraints
 
-Cross‑domain invariants
+Flows — movement of resources (time, energy, compute, attention)
 
-Substrate and horizon models
+These invariants enable consistent reasoning patterns that generalize across technical, personal, organizational, and computational environments.
 
-Forces and flows
+REID is designed for seamless integration with the Microsoft ecosystem, including Azure, Copilot, Forms, and the broader AI and cloud stack.
 
-Multi‑human node logic
+Its layered architecture supports:
 
-Compute‑efficiency principles
+Cross‑domain translation
 
-Examples demonstrating reasoning efficiency and domain translation
+Multi‑human node models
 
-The private REID‑Core (amendments, DOCX, appendices, and personal node
-structures) is not included here. This public framework is intended for
-research, integration, and exploration within the Microsoft‑aligned
-AI ecosystem.
+Compute‑efficient reasoning paths
 
-## Project Structure
+Reduced chain‑of‑thought expansion
 
-/docs  
+Lower GPU cycle usage
+
+Stable long‑arc decision‑making
+
+Structural clarity across systems and humans
+
+This repository contains the public REID Framework, intended for research, integration, and exploration within Microsoft‑aligned AI and cloud environments.
+
+The private REID‑Core (amendments, DOCX, appendices, personal node structures) is intentionally excluded.
+
+⭐ Repository Structure
+Code
+/docs
     Core architecture documents
+    Substrate, Horizon, Forces, Flows
+    Cross‑domain invariants
+    Multi‑human node model
+    Compute‑efficiency architecture
 
-/examples  
+/examples
     Demonstrations of REID in action
+    Reasoning efficiency
+    Domain translation
+    Multi‑node examples
 
-/vision  
-    Long‑arc integration and ecosystem alignment
+/vision
+    Long‑arc integration
+    Microsoft ecosystem alignment
+⭐ Core Architecture Documents (in /docs)
+These files define the REID cognitive architecture:
+
+architecture.md — high‑level system overview
+
+substrate.md — Mode T, coherence engine, reasoning surface
+
+horizon_model.md — goals, timelines, acceptable futures
+
+forces_and_flows.md — pressures, incentives, resource movement
+
+cross_domain_invariants.md — translator layer for all domains
+
+multi_human_node_model.md — shared substrate across humans
+
+compute_efficiency.md — reduced chain‑of‑thought, GPU savings
+
+⭐ Domain Application Suite
+These documents show how REID applies across human and system contexts:
+
+REID for Individuals
+
+REID for Families
+
+REID for Organizations
+
+REID for Leadership
+
+REID for Education
+
+REID for Conflict Resolution
+
+REID for Health & Well‑Being
+
+REID for Creativity & Innovation
+
+REID for Systems Design & Engineering
+
+REID for Strategy & Long‑Arc Planning
+
+REID for Decision‑Making
+
+REID for Communication
+
+REID for Time & Attention
+
+REID for Change & Transitions
+
+These form the applied layer of the architecture — showing how the invariants operate in real‑world systems.
+
+⭐ Examples (in /examples)
+Demonstrations of REID in action:
+
+Reasoning efficiency
+
+Domain translation
+
+Multi‑node reasoning
+
+Before/after structural clarity
+
+These examples show how REID reduces cognitive load and improves coherence.
+
+⭐ Vision (in /vision)
+Long‑arc integration documents:
+
+Microsoft ecosystem alignment
+
+Azure + Copilot + Forms integration
+
+Cross‑surface cognitive substrate
+
+Multi‑year architecture trajectory
+
+This section outlines how REID fits into the broader AI and cloud landscape.
+
+⭐ What REID Enables
+REID provides:
+
+Stable reasoning across domains
+
+Reduced compute cost
+
+Lower GPU cycles
+
+Fewer clarification loops
+
+Cross‑domain translation
+
+Multi‑human coherence
+
+Long‑arc planning
+
+Structural clarity
+
+Predictable transitions
+
+Flow‑aware decision‑making
+
+REID is not a model.
+REID is an architecture.
+
+⭐ Intended Use
+This public framework is designed for:
+
+Research
+
+Integration
+
+Cognitive architecture exploration
+
+AI reasoning efficiency
+
+Multi‑domain system design
+
+Microsoft ecosystem alignment
+
+The private REID‑Core remains separate.
