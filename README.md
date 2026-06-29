@@ -1,3 +1,20 @@
+# 🚫 REPOSITORY DEPRECATED — SUPERSEDED BY REID v6.0a
+**Status:** Archived • **Last Active Version:** v3.1.1a • **Successor:** REID v6.0a
+
+This repository contains the REID v3.1.1a specification corpus.
+It is preserved for historical reference, lineage continuity, and compatibility analysis,
+but it is no longer under active development.
+
+Active development has moved to REID v6.0a, which introduces:
+- the Four-Layer Spine Architecture
+- updated Requirements Architecture
+- expanded Core Definitions & Invariants
+- unified Enterprise Integration Surface
+- full v6.0a Build Suite (46 artifacts)
+
+Please refer to the v6.0a repository for all current work.
+
+
 # REID v3.1.1a — Relational Emergent Invariant Dynamics  
 *A Cognitive Architecture for Stable, Efficient, Cross‑Domain Reasoning*
 
