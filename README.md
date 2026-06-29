@@ -2,6 +2,10 @@
 # 🚫 REPOSITORY DEPRECATED — SUPERSEDED BY REID v6.0a
 **Status:** Archived • **Last Active Version:** v3.1.1a • **Successor:** REID v6.0a
 
+Active development has moved to the REID v6.0a repository.  
+This repo is preserved for historical reference, lineage continuity, and compatibility analysis.
+https://github.com/RASchram/REID-v6.0a
+
 This repository contains the REID v3.1.1a specification corpus.
 It is preserved for historical reference, lineage continuity, and compatibility analysis,
 but it is no longer under active development.
