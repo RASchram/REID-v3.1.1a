@@ -1,3 +1,4 @@
+![Deprecated](https://img.shields.io/badge/status-deprecated-red)
 # 🚫 REPOSITORY DEPRECATED — SUPERSEDED BY REID v6.0a
 **Status:** Archived • **Last Active Version:** v3.1.1a • **Successor:** REID v6.0a
 
